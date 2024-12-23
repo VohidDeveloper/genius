@@ -8070,11 +8070,6 @@
     Plugin URI: https://iconsmind.com/view_icons/
 !*/
 @font-face {
-  font-family: icomoon;
-  src: url(../fonts/icomoon.eot%3F-rdmvgc);
-  src: url(../fonts/icomoon.eot%3F) format("embedded-opentype"),
-    url(../fonts/icomoon.woff%3F-rdmvgc) format("woff"),
-    url(../fonts/icomoon.ttf%3F-rdmvgc) format("truetype");
   font-weight: 400;
   font-style: normal;
 }
